@@ -40,7 +40,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Add Two Numbers
 - [ ] Delete Node in a Linked List
 - [ ] Intersection of Two Linked Lists
-- [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
+- [x] [Linked List Cycle](./C/Easy/141. Linked List Cycle/)
 - [ ] Reverse Nodes in k-Group
 - [ ] Palindrome Linked List
 - [ ] LRU Cache

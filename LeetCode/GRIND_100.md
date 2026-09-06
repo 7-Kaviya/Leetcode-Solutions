@@ -44,7 +44,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 ### 📂 Linked List
 - [ ] Reverse Linked List
 - [ ] Palindrome Linked List
-- [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
+- [x] [Linked List Cycle](./C/Easy/141. Linked List Cycle/)
 - [ ] Linked List Cycle II
 - [ ] Merge Two Sorted Lists
 - [ ] Remove Nth Node From End of List
