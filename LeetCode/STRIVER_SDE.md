@@ -33,7 +33,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Longest Substring Without Repeating Characters
 
 ### 📂 Linked List
-- [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
+- [x] [Reverse Linked List](./C/Easy/206. Reverse Linked List/)
 - [ ] Middle of the Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Remove Nth Node From End of List

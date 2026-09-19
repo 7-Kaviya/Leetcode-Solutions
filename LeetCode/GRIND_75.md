@@ -59,7 +59,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Meeting Rooms II
 
 ### 📂 Linked List
-- [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
+- [x] [Reverse Linked List](./C/Easy/206. Reverse Linked List/)
 - [x] [Linked List Cycle](./C/Easy/141. Linked List Cycle/)
 - [ ] Merge Two Sorted Lists
 - [ ] Merge k Sorted Lists
