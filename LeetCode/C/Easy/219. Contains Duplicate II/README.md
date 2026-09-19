@@ -1,6 +1,6 @@
 # 📝 219. Contains Duplicate II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate-ii)
+🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 16.8 MB
 
 ---
 
