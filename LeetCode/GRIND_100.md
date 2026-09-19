@@ -48,7 +48,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Linked List Cycle II
 - [ ] Merge Two Sorted Lists
 - [ ] Remove Nth Node From End of List
-- [x] [Intersection of Two Linked Lists](./Java/Easy/160. Intersection of Two Linked Lists/)
+- [x] [Intersection of Two Linked Lists](./C/Easy/160. Intersection of Two Linked Lists/)
 - [ ] Add Two Numbers
 - [ ] Copy List with Random Pointer
 - [ ] LRU Cache
