@@ -12,7 +12,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 ### 📂 Array
 - [x] [Two Sum](./Java/Easy/1. Two Sum/)
 - [ ] Best Time to Buy and Sell Stock
-- [x] [Contains Duplicate](./Java/Easy/217. Contains Duplicate/)
+- [x] [Contains Duplicate](./C/Easy/217. Contains Duplicate/)
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
