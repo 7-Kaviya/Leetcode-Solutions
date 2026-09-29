@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 65 (3.1%)
+- **Completed:** 3 / 65 (4.6%)
 
 ---
 
@@ -83,7 +83,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Reverse Substrings Between Each Pair of Parentheses
 
 ### 📂 Module  2.4: Expression Evaluation & Par
-- [ ] Evaluate Reverse Polish Notation
+- [x] [Evaluate Reverse Polish Notation](./C/Medium/150. Evaluate Reverse Polish Notation/)
 - [ ] Basic Calculator
 - [ ] Basic Calculator II
 - [ ] Clumsy Factorial
