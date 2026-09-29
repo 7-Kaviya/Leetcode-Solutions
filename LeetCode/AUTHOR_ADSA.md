@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 65 (9.2%)
+- **Completed:** 7 / 65 (10.8%)
 
 ---
 
@@ -63,7 +63,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  2.1: Stack Fundamentals & Simula
 - [ ] Baseball Game
-- [ ] Validate Stack Sequences
+- [x] [Validate Stack Sequences](./C/Medium/983. Validate Stack Sequences/)
 
 ### 📂 Module  2.2: Parentheses & Bracket Patte
 - [x] [Valid Parentheses](./Java/Easy/20. Valid Parentheses/)
