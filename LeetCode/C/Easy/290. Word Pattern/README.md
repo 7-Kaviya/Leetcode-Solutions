@@ -1,6 +1,6 @@
 # 📝 290. Word Pattern (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/word-pattern)
+🔗 [Problem Link](https://leetcode.com/problems/word-pattern/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
 
@@ -8,8 +8,8 @@
 Hash Table, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 8.9 MB
 
 ---
 
