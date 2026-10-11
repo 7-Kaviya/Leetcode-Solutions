@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 14 / 238 (5.9%)
+- **Completed:** 15 / 238 (6.3%)
 
 ---
 
@@ -38,7 +38,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Nth Magical Number
 - [x] [Power of Two](./C/Easy/231. Power of Two/)
 - [x] [Power of Three](./C/Easy/326. Power of Three/)
-- [ ] Power of Four
+- [x] [Power of Four](./C/Easy/342. Power of Four/)
 - [ ] Integer Break
 
 ### 📂 MODULE  2.6: GCD, LCM & EUCLIDEAN ALGORI
