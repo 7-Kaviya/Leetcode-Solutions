@@ -1,6 +1,6 @@
 # 📝 292. Nim Game (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/nim-game)
+🔗 [Problem Link](https://leetcode.com/problems/nim-game/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
 
@@ -8,8 +8,8 @@
 Math, Brainteaser, Minimax, Game Theory, Nim Game, Impartial Game
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 8.4 MB
 
 ---
 
