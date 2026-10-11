@@ -1,6 +1,6 @@
 # 📝 326. Power of Three (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/power-of-three)
+🔗 [Problem Link](https://leetcode.com/problems/power-of-three/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
 
@@ -8,8 +8,8 @@
 Math, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 9.3 MB
 
 ---
 
