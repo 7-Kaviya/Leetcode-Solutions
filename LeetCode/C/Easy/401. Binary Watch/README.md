@@ -8,8 +8,8 @@
 Backtracking, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 8.9 MB
 
 ---
 
