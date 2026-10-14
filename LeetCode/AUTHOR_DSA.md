@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 18 / 238 (7.6%)
+- **Completed:** 19 / 238 (8.0%)
 
 ---
 
@@ -195,7 +195,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Reverse Vowels of a String](./C/Easy/345. Reverse Vowels of a String/)
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Jewels and Stones
-- [ ] Find the Difference
+- [x] [Find the Difference](./C/Easy/389. Find the Difference/)
 - [x] [Ransom Note](./C/Easy/383. Ransom Note/)
 - [ ] Check Two String Arrays Are Equivalent
 - [ ] Delete Capital Letters Check
